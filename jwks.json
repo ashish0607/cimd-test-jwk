@@ -2,11 +2,11 @@
   "keys": [
     {
       "kty": "RSA",
-      "use": "sig",
+      "n": "qvgDFdlquKjbrTvRzUGdx0QlyoXudcvTYEz_91ECxn0PdEuNkeijWuLjpnD72DwjS4XxMCx34gegxToZWYh-TLtta4rwComB_WNSb3QDyx0JypQwZRZz4EvyfYMs-J3fsPLnyPh6MW5xwaeVg6e1DAgtGx_YY9iUzh4mkFXOsY644fVZjQPIZJoCIHbA_pPtzl-wTJwr3JQ_nNjq0Wvze9Nw4I-PqdMnn6KEqKgf_nKU0wtMjk6V4t51yX7ndimsHoNxPqTsbxmZsD_YJcrsJ0v3UEDCMSJlNF1OOi152OljuWnX0__2ma-k8OwFUuqypqFw1nKSwOdwr1UV7MrmQw",
+      "e": "AQAB",
       "alg": "RS256",
-      "kid": "cimd-test-key-1",
-      "n": "u1W-m5_3dG9Xo7...[Your Base64url-encoded Public Key Modulus]...-pCgNMsD1W",
-      "e": "AQAB"
+      "use": "sig",
+      "kid": "8981543c099caa9593f377fa9c158565"
     }
   ]
 }
